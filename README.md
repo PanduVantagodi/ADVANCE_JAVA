@@ -102,6 +102,10 @@ https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/8b2.jpeg
 Lab9a o/p link:
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/9a.png
 
+Lab9b o/p link:
+https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/9b1.jpeg
+https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/9b2.jpeg
+
 Lab9c o/p link:
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/9c1.png
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/9c2.png
