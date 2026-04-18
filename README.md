@@ -42,7 +42,6 @@ PerformanceTest.java o/p link:
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/2b.png
 
 StringHandlingDemo.java o/p link:
-
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/3a1.png
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/3a2.png
 
@@ -50,7 +49,6 @@ S3b_StringExerciseprograms.java o/p link:
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/3b.png
 
 S3c_StringExerciseprograms.java o/p link:
-
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/3c.png
 
 SwingExample.java o/p link:
