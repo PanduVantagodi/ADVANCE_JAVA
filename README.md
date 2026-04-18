@@ -72,3 +72,22 @@ https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/5c.png
 TabbedPaneExample2.java o/p link:
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/5d.png
 
+Lab6a o/p link:
+https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/6a1.jpeg
+https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/6a2.jpeg
+
+Lab6b o/p link:
+https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/6b1.png
+https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/6b2.png
+
+Lab6c o/p link:
+https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/6c1.png
+https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/6c2.png
+
+Lab7a o/p link:
+https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/7a1.jpeg
+https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/7a2.jpeg
+
+Lab7b o/p link:
+https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/7b.png
+
