@@ -72,49 +72,49 @@ https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/5c.png
 TabbedPaneExample2.java o/p link:
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/5d.png
 
-Lab6a o/p link:
+Lab_6a o/p link:
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/6a1.jpeg
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/6a2.jpeg
 
-Lab6b o/p link:
+Lab_6b o/p link:
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/6b1.png
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/6b2.png
 
-Lab6c o/p link:
+Lab_6c o/p link:
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/6c1.png
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/6c2.png
 
-Lab7a o/p link:
+Lab_7a o/p link:
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/7a1.jpeg
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/7a2.jpeg
 
-Lab7b o/p link:
+Lab_7b o/p link:
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/7b.png
 
-Lab8a o/p link:
+Lab_8a o/p link:
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/8a1.png
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/8a2.png
 
-Lab8b o/p link:
+Lab_8b o/p link:
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/8b1.jpeg
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/8b2.jpeg
 
-Lab9a o/p link:
+Lab_9a o/p link:
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/9a.png
 
-Lab9b o/p link:
+Lab_9b o/p link:
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/9b1.jpeg
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/9b2.jpeg
 
-Lab9c o/p link:
+Lab_9c o/p link:
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/9c1.png
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/9c2.png
 
-Lab10a o/p link:
+Lab_10a o/p link:
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/10a1.jpeg
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/10a2.jpeg
 
-Lab10b o/p link:
+Lab_10b o/p link:
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/10b1.jpeg
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/10b2.jpeg
 
