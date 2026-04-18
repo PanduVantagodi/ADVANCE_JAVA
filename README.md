@@ -34,3 +34,10 @@ https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/1p9.png
 P10.java o/p link:
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/1p10.png
 
+StringHandlingDemo_1.java o/p link:
+https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/2a1.png
+https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/2a2.png
+
+PerformanceTest.java o/p link:
+https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/2b.png
+
