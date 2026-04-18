@@ -3,3 +3,5 @@ This repository contains a collection of Advanced Java programs and applications
 
 ListInterfaceDemo.java o/p link:
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/1a.png
+P1.java o/p link:https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/1p1.png
+P2.java o/p link:https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/1p2.png
