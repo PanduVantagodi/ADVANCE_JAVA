@@ -85,7 +85,6 @@ https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/6c1.png
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/6c2.png
 
 Lab_7a o/p link:
-
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/7a1.jpeg
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/7a2.jpeg
 
