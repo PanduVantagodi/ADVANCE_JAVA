@@ -118,4 +118,26 @@ Lab_10b o/p link:
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/10b1.jpeg
 https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/10b2.jpeg
 
+Lab_11a o/p link:
+https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/11a.png
 
+Lab_11b o/p link:
+https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/11b.png
+
+Lab_11c o/p link:
+https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/11c1.png
+https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/11c2.png
+
+Lab_12a o/p link:
+https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/12a.png
+
+Lab_12b o/p link:
+https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/12b.png
+
+Lab_12c o/p link:
+https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/12c1.png
+https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/12c2.png
+
+Lab_12d o/p link:
+https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/12d1.png
+https://github.com/PanduVantagodi/ADVANCE_JAVA/blob/main/12d2.png
